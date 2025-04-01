@@ -40,7 +40,7 @@ class  Script(object):
 ║╭━━━━━━━━━━━━━━━➣
 ║┣⪼📃ʙᴏᴛ : [Fᴏʀᴡᴀᴅ Bᴏᴛ](https://t.me/Dev_Autoforwardbot)
 ║┣⪼👦Cʀᴇᴀᴛᴏʀ : [Dev 👑](https://t.me/Morning006)
-║┣⪼🤖Uᴘᴅᴀᴛᴇ : [VJ Bᴏᴛᴢ](https://t.me/MoviesEmpire_Backup)
+║┣⪼🤖Uᴘᴅᴀᴛᴇ : [Backup🙂](https://t.me/MoviesEmpire_Backup)
 ║┣⪼📡Hᴏsᴛᴇᴅ ᴏɴ : Sᴜᴘᴇʀ Fᴀsᴛ
 ║┣⪼🗣️Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ3
 ║┣⪼📚Lɪʙʀᴀʀʏ : Pʏʀᴏɢʀᴀᴍ Gᴀᴛʜᴇʀ 2.11.0 
